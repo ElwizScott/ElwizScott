@@ -1,3 +1,6 @@
+
+<img width="1264" height="710" alt="1" src="https://github.com/user-attachments/assets/76233ad8-9c0d-4d4b-92ed-4a81018b5fcb" />
+
 # Hi, I'm Kiên 👋
 
 🎓 Software Engineering student at RMIT  
