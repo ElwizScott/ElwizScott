@@ -100,7 +100,6 @@ iOS app using **SwiftUI and Core ML** for smart recipe recommendations.
 Data-driven KPI analytics platform built for a real company using **Power BI, SwiftUI, and Machine Learning**.
 
 - Designed KPI framework across multiple departments (BSC model)  
-- Built real-time dashboards with automated data pipelines  
 - Developed iOS app for AI-driven KPI analysis  
 - Implemented forecasting and anomaly detection  
 
