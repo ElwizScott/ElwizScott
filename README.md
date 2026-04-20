@@ -23,7 +23,9 @@
 <table>
 <tr>
 <td width="200">
-  <img src="https://github.com/user-attachments/assets/d92b812a-a0be-473f-81e8-718dd3b6a9d6" width="180"/>
+  <a href="https://github.com/ISYS3461-2025C-Hercules-DEVision" target="_blank">
+    <img src="https://github.com/user-attachments/assets/d92b812a-a0be-473f-81e8-718dd3b6a9d6" width="180"/>
+  </a>
 </td>
 <td>
 
@@ -40,7 +42,9 @@ Distributed **microservices-based system** using Spring Boot, Kafka, and Docker.
 </tr>
 <tr>
 <td width="200">
-  <img src="https://github.com/user-attachments/assets/e06d6f16-7acc-454d-986c-d23065612915" width="180"/>
+  <a href="https://github.com/ElwizScott/Hapi.Cakes" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e06d6f16-7acc-454d-986c-d23065612915" width="180"/>
+  </a>
 </td>
 <td>
 
@@ -57,7 +61,9 @@ Production-ready **full-stack web application** used in a real business.
 </tr>
 <tr>
 <td width="200">
-  <img src="https://github.com/user-attachments/assets/1cb9cff7-0e36-4048-9315-359d51f441d0" width="180"/>
+  <a href="https://github.com/ElwizScott/Savoury" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1cb9cff7-0e36-4048-9315-359d51f441d0" width="180"/>
+  </a>
 </td>
 <td>
 
@@ -74,7 +80,9 @@ iOS app using **SwiftUI and Core ML** for smart recipe recommendations.
 </tr>
 <tr>
 <td width="200">
-  <img src="https://github.com/user-attachments/assets/dc11b3fb-ee72-4801-9132-441e38359393" width="180"/>
+  <a href="https://github.com/Capstone2025Ahamove" target="_blank">
+    <img src="https://github.com/user-attachments/assets/dc11b3fb-ee72-4801-9132-441e38359393" width="180"/>
+  </a>
 </td>
 <td>
 
