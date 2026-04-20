@@ -1,4 +1,4 @@
-<h1>Hi , I'm Kiên (Elwiz Scott)</h1>
+<h1>Hi , I'm Kiên (Elwiz Scott) </h1>
 <h3>Software Engineer | Backend & Full-Stack | AI-Driven Systems</h3>
 
 <p>
@@ -20,8 +20,6 @@
 
 ## Featured Projects
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="200">
@@ -40,11 +38,6 @@ Distributed **microservices-based system** using Spring Boot, Kafka, and Docker.
 
 </td>
 </tr>
-</table>
-
----
-
-<table>
 <tr>
 <td width="200">
   <img src="https://github.com/user-attachments/assets/e06d6f16-7acc-454d-986c-d23065612915" width="180"/>
@@ -62,11 +55,6 @@ Production-ready **full-stack web application** used in a real business.
 
 </td>
 </tr>
-</table>
-
----
-
-<table>
 <tr>
 <td width="200">
   <img src="https://github.com/user-attachments/assets/1cb9cff7-0e36-4048-9315-359d51f441d0" width="180"/>
@@ -84,11 +72,6 @@ iOS app using **SwiftUI and Core ML** for smart recipe recommendations.
 
 </td>
 </tr>
-</table>
-
----
-
-<table>
 <tr>
 <td width="200">
   <img src="https://github.com/user-attachments/assets/dc11b3fb-ee72-4801-9132-441e38359393" width="180"/>
@@ -143,6 +126,12 @@ Data-driven KPI analytics platform built for a real company using **Power BI, Sw
 ---
 
 ## Connect With Me
+<p>
+  <img width="16" src="https://github.com/user-attachments/assets/2f5c8777-4b31-463e-abc4-0237dab8c9f2" />
+  <a href="mailto:elwizscott@gmail.com">elwizscott@gmail.com</a>
+</p>
 
-- 📧 Email: **elwizscott@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/elwizscott
+<p>
+  <img width="16" src="https://github.com/user-attachments/assets/e2ac892c-575b-450d-8936-f5e99fc77da6" />
+  <a href="https://linkedin.com/in/elwizscott">linkedin.com/in/elwizscott</a>
+</p>
