@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kiên</h1>
-<h3 align="center">Software Engineer | Backend & Full-Stack | AI-Driven Systems</h3>
+<h1>Hi , I'm Kiên (Elwiz Scott)</h1>
+<h3>Software Engineer | Backend & Full-Stack | AI-Driven Systems</h3>
 
-<p align="center">
+<p>
   Software Engineering graduate from RMIT University <br>
   Backend-focused engineer building scalable systems, microservices, and data-driven applications
 </p>
@@ -15,6 +15,48 @@
 - Experience building **microservices, APIs, and distributed systems**
 - Worked on **AI-driven applications and data analytics systems**
 - Built **real-world products and production-ready systems**
+
+---
+
+## Featured Projects
+
+### <img width="24" alt="DEVision" src="https://github.com/user-attachments/assets/d92b812a-a0be-473f-81e8-718dd3b6a9d6" /> DEVision – Microservices Recruitment Platform
+Distributed **microservices-based system** using Spring Boot, Kafka, and Docker.
+
+- Designed scalable backend services for recruitment workflows
+- Implemented event-driven architecture using Kafka
+- Used MongoDB & Redis for distributed data handling
+- Containerized and deployed with Docker & Kubernetes
+
+---
+
+### <img width="24" alt="HapiCakes" src="https://github.com/user-attachments/assets/e06d6f16-7acc-454d-986c-d23065612915" /> Hapi.Cakes – Custom Cake Ordering Platform
+Production-ready **full-stack web application** used in a real business.
+
+- Built with Spring Boot, JavaScript (Vite), and MongoDB
+- Supports product management and custom order workflows
+- Maintained and enhanced based on real user requirements
+- Deployed and managed for continuous availability
+
+---
+
+### <img width="24" alt="Savoury" src="https://github.com/user-attachments/assets/1cb9cff7-0e36-4048-9315-359d51f441d0"/>  Savoury – AI Cooking iOS Application
+iOS app using **SwiftUI and Core ML** for smart recipe recommendations.
+
+- Ingredient-based search and personalized suggestions
+- Integrated external APIs and ML models
+- Built with MVVM architecture
+
+---
+
+### <img width="24" alt="ahamove-logo" src="https://github.com/user-attachments/assets/dc11b3fb-ee72-4801-9132-441e38359393" /> Ahamove KPI Analytics & AI Dashboard System
+
+Data-driven KPI analytics platform built for a real company using **Power BI, SwiftUI, and Machine Learning**.
+
+- Designed KPI framework across multiple departments (BSC model)
+- Built real-time dashboards with automated data pipelines
+- Developed iOS app for AI-driven KPI analysis
+- Implemented forecasting and anomaly detection
 
 ---
 
@@ -51,48 +93,7 @@
 
 ---
 
-## Featured Projects
-
-### DEVision – Microservices Recruitment Platform
-Distributed **microservices-based system** using Spring Boot, Kafka, and Docker.
-
-- Designed scalable backend services for recruitment workflows
-- Implemented event-driven architecture using Kafka
-- Used MongoDB & Redis for distributed data handling
-- Containerized and deployed with Docker & Kubernetes
-
----
-
-### Hapi.Cakes – Custom Cake Ordering Platform
-Production-ready **full-stack web application** used in a real business.
-
-- Built with Spring Boot, JavaScript (Vite), and MongoDB
-- Supports product management and custom order workflows
-- Maintained and enhanced based on real user requirements
-- Deployed and managed for continuous availability
-
----
-
-### Savoury – AI Cooking iOS Application
-iOS app using **SwiftUI and Core ML** for smart recipe recommendations.
-
-- Ingredient-based search and personalized suggestions
-- Integrated external APIs and ML models
-- Built with MVVM architecture
-
----
-
-### Ahamove KPI Analytics & AI Dashboard System
-Data-driven KPI analytics platform built for a real company using **Power BI, SwiftUI, and Machine Learning**.
-
-- Designed KPI framework across multiple departments (BSC model)
-- Built real-time dashboards with automated data pipelines
-- Developed iOS app for AI-driven KPI analysis
-- Implemented forecasting and anomaly detection
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 - 📧 Email: **elwizscott@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/elwizscott
