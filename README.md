@@ -20,43 +20,93 @@
 
 ## Featured Projects
 
-### <img width="24" alt="DEVision" src="https://github.com/user-attachments/assets/d92b812a-a0be-473f-81e8-718dd3b6a9d6" /> DEVision – Microservices Recruitment Platform
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="200">
+  <img src="https://github.com/user-attachments/assets/d92b812a-a0be-473f-81e8-718dd3b6a9d6" width="180"/>
+</td>
+<td>
+
+### DEVision – Microservices Recruitment Platform
+
 Distributed **microservices-based system** using Spring Boot, Kafka, and Docker.
 
-- Designed scalable backend services for recruitment workflows
-- Implemented event-driven architecture using Kafka
-- Used MongoDB & Redis for distributed data handling
-- Containerized and deployed with Docker & Kubernetes
+- Designed scalable backend services for recruitment workflows  
+- Implemented event-driven architecture using Kafka  
+- Used MongoDB & Redis for distributed data handling  
+- Containerized and deployed with Docker & Kubernetes  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### <img width="24" alt="HapiCakes" src="https://github.com/user-attachments/assets/e06d6f16-7acc-454d-986c-d23065612915" /> Hapi.Cakes – Custom Cake Ordering Platform
+<table>
+<tr>
+<td width="200">
+  <img src="https://github.com/user-attachments/assets/e06d6f16-7acc-454d-986c-d23065612915" width="180"/>
+</td>
+<td>
+
+### Hapi.Cakes – Custom Cake Ordering Platform
+
 Production-ready **full-stack web application** used in a real business.
 
-- Built with Spring Boot, JavaScript (Vite), and MongoDB
-- Supports product management and custom order workflows
-- Maintained and enhanced based on real user requirements
-- Deployed and managed for continuous availability
+- Built with Spring Boot, JavaScript (Vite), and MongoDB  
+- Supports product management and custom order workflows  
+- Maintained and enhanced based on real user requirements  
+- Deployed and managed for continuous availability  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### <img width="24" alt="Savoury" src="https://github.com/user-attachments/assets/1cb9cff7-0e36-4048-9315-359d51f441d0"/>  Savoury – AI Cooking iOS Application
+<table>
+<tr>
+<td width="200">
+  <img src="https://github.com/user-attachments/assets/1cb9cff7-0e36-4048-9315-359d51f441d0" width="180"/>
+</td>
+<td>
+
+### Savoury – AI Cooking iOS Application
+
 iOS app using **SwiftUI and Core ML** for smart recipe recommendations.
 
-- Ingredient-based search and personalized suggestions
-- Integrated external APIs and ML models
+- Ingredient-based search and personalized suggestions  
+- Integrated external APIs and ML models  
 - Built with MVVM architecture
+- Optimized data flow and state management to ensure smooth, low-latency user experience     
+
+</td>
+</tr>
+</table>
 
 ---
 
-### <img width="24" alt="ahamove-logo" src="https://github.com/user-attachments/assets/dc11b3fb-ee72-4801-9132-441e38359393" /> Ahamove KPI Analytics & AI Dashboard System
+<table>
+<tr>
+<td width="200">
+  <img src="https://github.com/user-attachments/assets/dc11b3fb-ee72-4801-9132-441e38359393" width="180"/>
+</td>
+<td>
+
+### AhaMove KPI Analytics & AI Dashboard System
 
 Data-driven KPI analytics platform built for a real company using **Power BI, SwiftUI, and Machine Learning**.
 
-- Designed KPI framework across multiple departments (BSC model)
-- Built real-time dashboards with automated data pipelines
-- Developed iOS app for AI-driven KPI analysis
-- Implemented forecasting and anomaly detection
+- Designed KPI framework across multiple departments (BSC model)  
+- Built real-time dashboards with automated data pipelines  
+- Developed iOS app for AI-driven KPI analysis  
+- Implemented forecasting and anomaly detection  
+
+</td>
+</tr>
+</table>
 
 ---
 
