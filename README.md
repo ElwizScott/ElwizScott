@@ -1,55 +1,49 @@
-<img width="1264" height="710" alt="1" src="https://github.com/user-attachments/assets/76233ad8-9c0d-4d4b-92ed-4a81018b5fcb" />
-
 <h1 align="center">Hi 👋, I'm Kiên</h1>
-<h3 align="center">Backend-focused Software Engineering Student</h3>
+<h3 align="center">Software Engineer | Backend & Full-Stack | AI-Driven Systems</h3>
 
 <p align="center">
-  Software Engineering @ RMIT University<br>
-  Interested in scalable systems, microservices, cloud architecture, and AI applications.
+  Software Engineering graduate from RMIT University <br>
+  Backend-focused engineer building scalable systems, microservices, and data-driven applications
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Software Engineering student at **RMIT University**
-- 💻 Focused on **Backend Development & System Design**
-- ☁️ Interested in **Cloud Infrastructure and Distributed Systems**
-- 🤖 Exploring **AI-powered applications**
-- 🚀 Passionate about building scalable software
+- Software Engineering graduate from **RMIT University**
+- Specialized in **Backend Development & System Design**
+- Experience building **microservices, APIs, and distributed systems**
+- Worked on **AI-driven applications and data analytics systems**
+- Built **real-world products and production-ready systems**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30"/>
 </p>
 
-### Backend & Frameworks
+### Backend & Systems
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30"/>
 </p>
 
 ### Databases
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="30"/>
 </p>
 
-### Cloud & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
-</p>
-
-### Machine Learning
+### Data & AI
 <p>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/>
@@ -57,41 +51,48 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗 Hercules – Microservice Job Platform
-A scalable **microservice-based recruitment platform** connecting job seekers and employers.
+### DEVision – Microservices Recruitment Platform
+Distributed **microservices-based system** using Spring Boot, Kafka, and Docker.
 
-Key features:
-- Microservice architecture
-- RESTful APIs
-- Modular backend services
-- Scalable system design
-
----
-
-### 🚇 HCMC Metro Web System
-Enterprise-grade **metro booking and operations platform**.
-
-Key features:
-- Ticket booking system
-- E-wallet payment integration
-- Real-time operational management
-- Operator dashboard
+- Designed scalable backend services for recruitment workflows
+- Implemented event-driven architecture using Kafka
+- Used MongoDB & Redis for distributed data handling
+- Containerized and deployed with Docker & Kubernetes
 
 ---
 
-### 🍳 Savoury – AI Cooking Assistant
-iOS application using **Core ML** for ingredient recognition and recipe recommendations.
+### Hapi.Cakes – Custom Cake Ordering Platform
+Production-ready **full-stack web application** used in a real business.
 
-Key features:
-- Ingredient recognition
-- Personalized meal suggestions
-- Dietary preference support
+- Built with Spring Boot, JavaScript (Vite), and MongoDB
+- Supports product management and custom order workflows
+- Maintained and enhanced based on real user requirements
+- Deployed and managed for continuous availability
+
+---
+
+### Savoury – AI Cooking iOS Application
+iOS app using **SwiftUI and Core ML** for smart recipe recommendations.
+
+- Ingredient-based search and personalized suggestions
+- Integrated external APIs and ML models
+- Built with MVVM architecture
+
+---
+
+### Ahamove KPI Analytics & AI Dashboard System
+Data-driven KPI analytics platform built for a real company using **Power BI, SwiftUI, and Machine Learning**.
+
+- Designed KPI framework across multiple departments (BSC model)
+- Built real-time dashboards with automated data pipelines
+- Developed iOS app for AI-driven KPI analysis
+- Implemented forecasting and anomaly detection
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 Email: **elwizscott@gmail.com**
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💼 LinkedIn: https://linkedin.com/in/elwizscott
